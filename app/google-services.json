@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058410930925",
+    "project_id": "fitmaster-125bf",
+    "storage_bucket": "fitmaster-125bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058410930925:android:796be9cbb9fc08e432a2e4",
+        "android_client_info": {
+          "package_name": "com.nandrillusions.fit_masters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukFVa3T-cryEcXRL6mk4gX0DVOxMnu00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
